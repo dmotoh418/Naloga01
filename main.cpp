@@ -30,7 +30,8 @@ int main() {
             cout<<a/b;
             break;
         default:
+            cout << "Napačen vnos" << endl;
             break;
     }
-
+    cout << "zdruzevanja vej" << endl;
 }
