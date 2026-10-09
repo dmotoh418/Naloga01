@@ -18,7 +18,7 @@ int main() {
     cin>>b;
     switch(izbira) {
         case 1:
-            cout<<a+b;
+            cout<< "konflikt"<<a+b;
             break;
         case 2:
             cout<<a-b;
